@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:haarishdhev@gmail.com"><img src="https://img.shields.io/badge/Email-haarishdhev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/dhevhaarish"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhevhaarish"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!-- 📸 OPTIONAL: add a banner image or GIF here -->
